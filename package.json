@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-insomnia",
+  "name": "Insomnia-PhoneGap-Plugin",
   "version": "4.0.1",
   "description": "Prevent the screen of the mobile device from falling asleep.",
   "cordova": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git"
+    "url": "git+https://github.com/vkeepe/Insomnia-PhoneGap-Plugin.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -31,7 +31,7 @@
   "author": "Eddy Verbruggen <eddyverbruggen@gmail.com> (https://github.com/EddyVerbruggen)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin/issues"
+    "url": "https://github.com/vkeepe/Insomnia-PhoneGap-Plugin/issues"
   },
-  "homepage": "https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin#readme"
+  "homepage": "https://github.com/vkeepe/Insomnia-PhoneGap-Plugin#readme"
 }
